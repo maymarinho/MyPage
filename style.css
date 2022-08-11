@@ -1,0 +1,36 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: #ff5cc3;
+}
+h3{ 
+  color: #ff00bb;
+}
+#curiSobre{
+  color: #00ff04;
+  background: #8900fa;
+}
+#contMeu{
+  color: #73ff00;
+}
+.showFest{
+  color: #ff9500;
+}
+.bastCuriosa{
+  color: #2e6dff;
+}
+.conectArtes{
+  color: indigo;
+}
+.jogarSims{
+  color: #c9cb52;
+}
+.coisasSozinha{
+  color: #36bf91;
+}
+.dançaVida{
+  color: hotpink;
+}
